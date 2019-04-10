@@ -33,6 +33,12 @@
 ![](quickstart/process.png)
 
 # 版本记录
+## 0.7.1.0 (19.04.10)
+1. 移除Redisson及相关的组件
+2. 优化dubbo缓存
+3. k8s支持优化
+4. 其它组件优化及bugfix
+
 ## 0.7.0.0 (19.03.15)
 1. spring boot -> 2.1.3.RELEASE | dubbo -> 2.6.6
 2. kafka添加all模式，可以发送给当前topic下的所有消费者
